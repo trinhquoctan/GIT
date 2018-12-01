@@ -156,7 +156,7 @@
                 <configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.fsoft.fa.ipm.config.ApplicationContextConfig</mainClass>
+							<mainClass>com.fsoft.fa.ipm.config.WebMvcConfig</mainClass>
 						</manifest>
 					</archive>				
                     <failOnMissingWebXml>false</failOnMissingWebXml>
